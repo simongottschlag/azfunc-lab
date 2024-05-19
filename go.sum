@@ -1,0 +1,6 @@
+github.com/KarlGW/azfunc v0.15.0 h1:/zL/NpSuGN7nTmnZexIpxOaHBDurANJjAC1b2gmuJH8=
+github.com/KarlGW/azfunc v0.15.0/go.mod h1:AfMzJKd16qHKS9xKTJSNMAeGirAr9IZ+jf6rNR1nUtA=
+github.com/google/go-cmp v0.6.0 h1:ofyhxvXcZhMsU5ulbFiLKl/XBFqE1GSq7atu8tAmTRI=
+github.com/google/go-cmp v0.6.0/go.mod h1:17dUlkBOakJ0+DkrSSNjCkIjxS6bF9zb3elmeNGIjoY=
+golang.org/x/sync v0.7.0 h1:YsImfSBoP9QPYL0xyKJPq0gcaJdG3rInoqxTWbfQu9M=
+golang.org/x/sync v0.7.0/go.mod h1:Czt+wKu1gCyEFDUtn0jG5QVvpJ6rzVqr5aXyt9drQfk=

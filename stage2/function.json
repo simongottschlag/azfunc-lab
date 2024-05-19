@@ -1,0 +1,11 @@
+{
+  "bindings": [
+    {
+      "name": "servicebus",
+      "type": "serviceBusTrigger",
+      "direction": "in",
+      "queueName": "stage1out",
+      "connection": "ServiceBus"
+    }
+  ]
+}
